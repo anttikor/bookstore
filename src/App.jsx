@@ -7,7 +7,8 @@ import IconButton from '@mui/material/IconButton';
 import DeleteIcon from '@mui/icons-material/Delete';
 import AddBook from './AddBook';
 //import { API_URL } from './config';
-const API_URL = process.env.REACT_APP_API_URL;
+//const API_URL = process.env.REACT_APP_API_URL;
+const API_URL = "https://bookstore-9d6c6-default-rtdb.europe-west1.firebasedatabase.app/books/"
 
 
 import './App.css';
