@@ -33,9 +33,9 @@
     "vite": "4.3"
   },
   "render": {
-    "buildCommand": "npm run build", // The build command for your project
-    "startCommand": "npm run dev",   // The start command for your project
-    "useWorker": true,               // Enable Render Worker
-    "staticPublishPath": "build"     // The path to your static files
+    "buildCommand": "npm run build", 
+    "startCommand": "npm run dev",   
+    "useWorker": true,               
+    "staticPublishPath": "build"    
   }
 }
